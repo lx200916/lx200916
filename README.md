@@ -1,4 +1,9 @@
 ### Hi there 👋
+X Lee,aka Saltedfish,undergraduate.
+
+- 🔭 Write in Go/Python. Kotlin/Vue&Node/Dart is also fine. Poor in PHP/C(++)/Algorithm Skills.
+- 💬 Blog at https://saltedfish.fun.
+- There are more things in heaven and earth than you've ever dreamed of.
 
 <!--
 **lx200916/lx200916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
