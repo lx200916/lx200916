@@ -1,5 +1,5 @@
 ### Hi there 👋
-X Lee,aka Saltedfish,undergraduate.
+`X Lee`,aka `Saltedfish`,undergraduate.
 
 - 🔭 Write in Go/Python. Kotlin/Vue&Node/Dart is also fine. Poor in PHP/C(++)/Algorithm Skills.
 - 💬 Blog at https://saltedfish.fun.
