@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![Hello](hello.svg)
+
 `X Lee`,aka `Saltedfish`,undergraduate,coder & explorer.
 
 - 🔭 Write in Go/Python. Kotlin/Vue&Node/Dart is also fine. Poor in PHP/C(++)/Algorithm Skills.
