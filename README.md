@@ -4,7 +4,7 @@
 
 `X Lee`,aka `Saltedfish`,undergraduate,coder & explorer.
 
-- 🔭 Write in Go/Python. Kotlin/Vue&Node/Dart is also fine. Poor in PHP/C(++)/Algorithm Skills.
+- 🔭 Write in Go/Python. Poor in PHP/C(++)/Algorithm Skills. Rust is all Greek to me.
 - 💬 Blog at https://saltedfish.fun.
 - There are more things in heaven and earth than you've ever dreamed of.
 
